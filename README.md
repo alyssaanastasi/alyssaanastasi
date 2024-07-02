@@ -3,13 +3,11 @@
 🎀 Senior in Computer Science and Statistics with a minor in Public Health at UIUC \
 🎀 Passion for applying machine learning in healthcare from the biological level to clinical settings \
 🎀 Pronouns: She/Her
-
-https://github-readme-stats-alyssa-anastasis-projects.vercel.app
-
-![Top Langs](https://github-readme-stats-alyssa-anastasis-projects.vercel.app/api/top-langs/?username=alyssaanastasi&layout=compact)
-
 <!--
 **alyssaanastasi/alyssaanastasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alyssaanastasi.alyssaanastasi)
 
 Here are some ideas to get you started:
 
