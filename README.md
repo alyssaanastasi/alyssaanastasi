@@ -1,5 +1,7 @@
-## * 𓆝 𓆟 𓆞 Welcome! 𓆟 𓆝 𓆞
+## Welcome! 💌
 
+- 🎀 Senior in Computer Science and Statistics with a minor in Public Health at UIUC
+- 🎀 Passion for applying machine learning in healthcare from the biological level to clinical settings
 
 
 <!--
