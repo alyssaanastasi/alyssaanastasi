@@ -3,9 +3,9 @@
 🎀 Senior in Computer Science and Statistics with a minor in Public Health at UIUC \
 🎀 Passion for applying machine learning in healthcare \
 🎀 Pronouns: She/Her <br>
-<br>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alyssaanastasi&theme=tokyonight" alt="mystreak"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alyssaanastasi&theme=tokyonight&hide_border=true&card_width=600&card_height=60)](https://git.io/streak-stats)
+
 <!--
 **alyssaanastasi/alyssaanastasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
