@@ -1,6 +1,6 @@
 ## Welcome! 💌
 
-🎀 Senior in Computer Science and Statistics with a minor in Public Health at UIUC \
+🎀 Master's in Biomedical Data Science @ UW-Madison \
 🎀 Passion for applying machine learning in healthcare \
 🎀 Pronouns: She/Her <br>
 
