@@ -4,7 +4,7 @@
 🎀 Passion for applying machine learning in healthcare \
 🎀 Pronouns: She/Her <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alyssaanastasi&theme=tokyonight&hide_border=true&card_width=600&card_height=60)](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=alyssaanastasi&theme=tokyonight&hide_border=true&card_width=600&card_height=60](https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight))](https://git.io/streak-stats)
 
 <!--
 **alyssaanastasi/alyssaanastasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
