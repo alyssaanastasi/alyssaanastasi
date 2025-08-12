@@ -1,7 +1,7 @@
 ## Welcome! 💌
 
 🎀 Graduate student in Biomedical Data Science @ UW-Madison \
-🎀 UIUC Alum
+🎀 UIUC Alum \
 🎀 Passion for applying machine learning in healthcare \
 🎀 Pronouns: She/Her <br>
 
